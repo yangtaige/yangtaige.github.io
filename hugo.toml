@@ -1,0 +1,48 @@
+baseURL = "https://yangtaige.github.io/"
+languageCode = "en-us"
+title = "Taige Yang"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  ShowCodeCopyButtons = true
+  math = true
+  
+  [params.profileMode]
+    enabled = true
+    title = "Hello, I'm Taige Yang"
+    subtitle = "Undergrad in BME & CS"
+    imageUrl = "/image/profile/myself.jpg"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 30
+  [[menu.main]]
+    identifier = "catalog"
+    name = "Catalog"
+    url = "/catalog/"
+    weight = 40
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  school = "schools"
+  field = "fields"
+  language = "languages"
+  topic = "topics"

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fields on Taige Yang</title>
+    <link>http://localhost:1313/fields/</link>
+    <description>Recent content in Fields on Taige Yang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 14:09:52 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/fields/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BME</title>
+      <link>http://localhost:1313/fields/bme/</link>
+      <pubDate>Mon, 20 Apr 2026 14:09:52 -0700</pubDate>
+      <guid>http://localhost:1313/fields/bme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CS</title>
+      <link>http://localhost:1313/fields/cs/</link>
+      <pubDate>Mon, 20 Apr 2026 14:09:52 -0700</pubDate>
+      <guid>http://localhost:1313/fields/cs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EECS</title>
+      <link>http://localhost:1313/fields/eecs/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fields/eecs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EE</title>
+      <link>http://localhost:1313/fields/ee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fields/ee/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

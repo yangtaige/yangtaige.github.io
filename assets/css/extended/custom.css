@@ -1,0 +1,12 @@
+/* 限制列表页封面图高度 */
+.post-entry .entry-cover img {
+    max-height: 200px; /* 根据你的喜好调整这个数值 */
+    object-fit: contain; /* 保证图片在被裁剪时不会拉伸变形 */
+    object-position: center; /* 确保图片中心区域可见 */
+}
+
+/* 如果单篇文章内的封面图也太大了，可以一并限制 */
+.post-single .post-content .cover img {
+    max-height: 400px;
+    object-fit: cover;
+}

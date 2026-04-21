@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hardware Design on Taige Yang</title>
+    <link>http://localhost:1313/tags/hardware-design/</link>
+    <description>Recent content in Hardware Design on Taige Yang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hardware-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS152: Computer Architecture and Engineering</title>
+      <link>http://localhost:1313/projects/cs152/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs152/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
+    <item>
+      <title>BME1107: Biomedical Electronics II</title>
+      <link>http://localhost:1313/projects/bme1107/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bme1107/</guid>
+      <description>ShanghaiTech University</description>
+    </item>
+  </channel>
+</rss>

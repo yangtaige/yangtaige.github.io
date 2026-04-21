@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="light">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>CS61C: Great Ideas of Computer Architecture | Taige Yang</title>
+<meta name="keywords" content="">
+<meta name="description" content="University of California, Berkeley">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/projects/cs61c/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1d7b2c7c127747e718e985ad18a61a231e5e0ab34ffd3b5a4c7511704f5a950.css" integrity="sha256-0deyx8EndH5xjpha0YphojHl4Ks0/9O1pMdRFwT1qVA=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/cs61c/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Taige Yang (Alt + H)">Taige Yang</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/research/" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/catalog/" title="Catalog">
+                    <span>Catalog</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      CS61C: Great Ideas of Computer Architecture
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h1>
+    <div class="post-description">
+      University of California, Berkeley
+    </div>
+    <div class="post-meta"><span title='2025-09-01 00:00:00 +0000 UTC'>September 1, 2025</span>
+
+</div>
+  </header> 
+  <div class="post-content md-content"><h2 id="course-overview">Course Overview<a hidden class="anchor" aria-hidden="true" href="#course-overview">#</a></h2>
+<p>An intensive exploration of the hardware-software interface, system-level programming, and modern computer microarchitecture. The coursework ranged from low-level memory management in C and implementing mathematical algorithms in pure RISC-V assembly, to building a pipelined RISC-V processor core from scratch at the digital logic level.</p>
+<hr>
+<h2 id="core-project-game-logic-and-low-level-memory-management-in-c">Core Project: Game Logic and Low-Level Memory Management in C<a hidden class="anchor" aria-hidden="true" href="#core-project-game-logic-and-low-level-memory-management-in-c">#</a></h2>
+<p><em>Developed a complete Snake game engine from scratch in C, focusing on dynamic memory allocation, pointer arithmetic, and the lifecycle management of complex data structures.</em></p>
+<ul>
+<li><strong>Dynamic Memory Management:</strong> Extensively utilized <code>malloc</code>, <code>realloc</code>, and <code>free</code> to dynamically allocate and resize the 2D game board and the array of snake entities. Implemented rigorous memory checking and deallocation logic, leveraging <code>memcheck</code> to strictly prevent memory leaks and dangling pointers.</li>
+<li><strong>Game State Machine &amp; Logic Updates:</strong> Implemented stateless collision detection and movement logic based on coordinate calculations and character parsing. Conducted precise 2D array pointer arithmetic to update grid states (<code>update_head</code>, <code>update_tail</code>) and handle complex physical boundary conditions.</li>
+<li><strong>File I/O &amp; State Deserialization:</strong> Engineered robust file stream parsing (<code>read_line</code>, <code>load_board</code>) to safely load variable-length text files line-by-line into heap memory, perfectly reconstructing the initial state and topology of the game.</li>
+</ul>
+<h3 id="2-artificial-neural-network-classifier-risc-v-assembly">2. Artificial Neural Network Classifier (RISC-V Assembly)<a hidden class="anchor" aria-hidden="true" href="#2-artificial-neural-network-classifier-risc-v-assembly">#</a></h3>
+<p><em>Implemented a simple neural network in pure RISC-V assembly (RV32I) capable of performing forward propagation to classify handwritten digits, providing deep insights into instruction set architectures and low-level system execution.</em></p>
+<ul>
+<li><strong>Mathematical Primitives &amp; Matrix Operations:</strong> Hand-wrote and optimized fundamental mathematical primitives in assembly: Absolute Value, ReLU activation, Argmax, and Vector Dot Product. Built upon these to implement general Matrix Multiplication by precisely controlling nested loops and memory stride accesses.</li>
+<li><strong>Strict Calling Convention:</strong> Strictly managed stack frame allocation and deallocation in the prologue and epilogue of all assembly functions. Precisely differentiated and preserved caller-saved and callee-saved registers to ensure state safety and register consistency during deep nested function calls.</li>
+<li><strong>System-Level I/O &amp; Execution Flow:</strong> Utilized <code>ecall</code> to trap into the OS kernel for dynamic memory allocation and reading/writing matrix parameters. Constructed a complete command-line argument parsing workflow and performed in-depth step-by-step debugging using the Venus simulator and VDB.</li>
+</ul>
+<h3 id="3-pipelined-risc-v-processor-architecture-digital-logic">3. Pipelined RISC-V Processor Architecture (Digital Logic)<a hidden class="anchor" aria-hidden="true" href="#3-pipelined-risc-v-processor-architecture-digital-logic">#</a></h3>
+<p><em>Designed and implemented a RISC-V (RV32I) microprocessor core supporting advanced instructions and pipelining from the hardware ground up using Logisim digital logic gates.</em></p>
+<img src="/image/projects/CS61C/cpu.png" alt="Pipelined CPU" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
+<ul>
+<li><strong>Datapath Component Construction:</strong> Independently designed and wired core datapath components, including Multiplexers, the Arithmetic Logic Unit (ALU), Register File (RegFile), and Immediate Generator. Precisely controlled the core clock cycles for instruction fetching, decoding, execution, memory access, and write-back.</li>
+<li><strong>Instruction Decoding &amp; Control Logic:</strong> Designed hardwired control logic for the complete integer instruction set (I-type, R-type, B-type, S-type, U-type, J-type). Implemented precise branch condition evaluation and jump address calculation (e.g., return address linking for <code>jal</code> and <code>jalr</code>). Optimized hardware resources by removing the dedicated branch adder, relying entirely on the single main ALU for all arithmetic and address calculations.</li>
+<li><strong>Pipelined Architecture Design:</strong> Upgraded the single-cycle CPU to a two-stage pipelined architecture, significantly improving microprocessor clock throughput. Introduced pipeline registers to isolate hardware states across different execution stages, and implemented bypassing and pipeline stalling mechanisms to thoroughly resolve data hazards and control hazards caused by pipeline parallelism.</li>
+</ul>
+<hr>
+<h2 id="technical-stack">Technical Stack<a hidden class="anchor" aria-hidden="true" href="#technical-stack">#</a></h2>
+<ul>
+<li><strong>Languages:</strong> C, RISC-V Assembly (RV32I)</li>
+<li><strong>Concepts:</strong> Instruction Set Architecture (ISA), Assembly Calling Conventions, Datapath Design, Pipelining, Memory Management.</li>
+<li><strong>Tools:</strong> Logisim, Venus (RISC-V Simulator), GDB, Valgrind (Memcheck).</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Taige Yang</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

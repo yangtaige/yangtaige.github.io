@@ -1,0 +1,31 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+<div class="post-content">
+    {{ $taxonomies := slice "schools" "fields" "languages" "topics" }}
+    
+    {{ range $taxName := $taxonomies }}
+        {{ $taxObj := index $.Site.Taxonomies $taxName }}
+        
+        {{ if $taxObj }}
+            <h2 id="{{ $taxName }}">{{ title $taxName }}</h2>
+            <ul class="terms-tags">
+                {{ range $term := $taxObj.Alphabetical }}
+                <li>
+                    <a href="{{ $term.Page.Permalink }}">
+                        {{ $term.Page.Data.Term }} <sup><strong><sup>{{ $term.Count }}</sup></strong></sup>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    {{ end }}
+</div>
+{{ end }}
