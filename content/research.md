@@ -1,6 +1,5 @@
 +++
 date = '2026-04-20T14:09:52-07:00'
-draft = true
 title = 'Research'
 schools = ["UC Berkeley", "ShanghaiTech"]
 fields = ["BME", "CS"]

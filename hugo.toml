@@ -10,8 +10,8 @@ theme = "PaperMod"
   
   [params.profileMode]
     enabled = true
-    title = "Hello, I'm Taige Yang"
-    subtitle = "Undergrad in BME & CS"
+    title = "Taige Yang"
+    subtitle = "BME & CS"
     imageUrl = "/image/profile/myself.jpg"
 
 [markup.goldmark.renderer]

@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/cs152/</guid>
       <description>University of California, Berkeley</description>
     </item>
+    <item>
+      <title>CS61C: Great Ideas of Computer Architecture</title>
+      <link>http://localhost:1313/projects/cs61c/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs61c/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
   </channel>
 </rss>

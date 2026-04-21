@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/cs168/</guid>
       <description>University of California, Berkeley</description>
     </item>
+    <item>
+      <title>CS161: Computer Security</title>
+      <link>http://localhost:1313/projects/cs161/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs161/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
   </channel>
 </rss>

@@ -33,5 +33,19 @@
 &lt;p&gt;Research Assistant | &lt;strong&gt;Sky Computing Lab, UC Berkeley&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Advised by Yiwei Hou&lt;/em&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>EEC145B: Medical Imaging Signals and Systems</title>
+      <link>http://localhost:1313/projects/eec145b/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eec145b/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
+    <item>
+      <title>BME1312: Artificial Intelligence in Medical Imaging</title>
+      <link>http://localhost:1313/projects/bme1312/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bme1312/</guid>
+      <description>ShanghaiTech University</description>
+    </item>
   </channel>
 </rss>

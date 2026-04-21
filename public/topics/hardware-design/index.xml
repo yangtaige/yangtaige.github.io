@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/cs152/</guid>
       <description>University of California, Berkeley</description>
     </item>
+    <item>
+      <title>BME1107: Biomedical Electronics II</title>
+      <link>http://localhost:1313/projects/bme1107/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bme1107/</guid>
+      <description>ShanghaiTech University</description>
+    </item>
   </channel>
 </rss>

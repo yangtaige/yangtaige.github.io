@@ -1,6 +1,5 @@
 +++
 date = '2025-09-01'
-draft = true
 title = 'CS61C: Great Ideas of Computer Architecture'
 description = 'University of California, Berkeley'
 schools = ["UC Berkeley"]

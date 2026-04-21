@@ -92,6 +92,9 @@
     <loc>http://localhost:1313/projects/cs161/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/cs188/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/cs61c/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,54 +122,10 @@
     <loc>http://localhost:1313/projects/si100b/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/cs188/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bme/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/c/</loc>
-  </url><url>
     <loc>http://localhost:1313/catalog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-architecture/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/cs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fields/ee/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/ee/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/game-development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/hardware-design/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/ml/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/os/</loc>
-  </url><url>
-    <loc>http://localhost:1313/topics/posix/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/risc-v/</loc>
-  </url><url>
-    <loc>http://localhost:1313/topics/routing/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/shanghaitech/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/topics/tcp/ip/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/uc-berkeley/</loc>
-  </url><url>
-    <loc>http://localhost:1313/languages/x86/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/x86/</loc>
   </url>
 </urlset>

@@ -6,13 +6,34 @@
     <description>Recent content in C on Taige Yang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/languages/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS152: Computer Architecture and Engineering</title>
+      <link>http://localhost:1313/projects/cs152/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs152/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
+    <item>
+      <title>CS162: Operating Systems and System Programming</title>
+      <link>http://localhost:1313/projects/cs162/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs162/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
     <item>
       <title>CS161: Computer Security</title>
       <link>http://localhost:1313/projects/cs161/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/cs161/</guid>
+      <description>University of California, Berkeley</description>
+    </item>
+    <item>
+      <title>CS61C: Great Ideas of Computer Architecture</title>
+      <link>http://localhost:1313/projects/cs61c/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs61c/</guid>
       <description>University of California, Berkeley</description>
     </item>
   </channel>
