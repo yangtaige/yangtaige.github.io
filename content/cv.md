@@ -46,7 +46,7 @@ Minor in Information Technology\
 
 **CS162: Operating Systems** — UC Berkeley <span style="float:right">Spring 2026</span>\
 *C · Rust*
-- Co-developed a monolithic Pintos OS kernel: implemented POSIX-compliant syscalls, ROX memory protections, 1:1 pthread-to-kernel-thread mapping, and a 64-entry buffer cache with N-th Chance clock eviction.
+- Co-developed a monolithic Pintos OS kernel: implemented file operation syscalls, ROX memory protections, user-kernel boundary security check, 1:1 pthread-to-kernel-thread mapping, `pthread_join`/`pthread_exit` syscalls, kernel-backed mutexes and semaphores, `exit`/`wait` process control syscalls for multi-threaded processes, and a 64-entry buffer cache with N-th Chance clock eviction.
 - Built a fault-tolerant distributed MapReduce framework in Rust with heartbeat-based failure recovery.
 - Engineered a concurrent HTTP/1.0 server using a custom thread pool, a POSIX-compatible shell with full job control and pipelines, and a `malloc`/`free` allocator with explicit free-list and block coalescing.
 
@@ -126,6 +126,6 @@ Minor in Information Technology\
 
 **Hardware:** Cadence (analog IC design & simulation) · PCB design and debugging
 
-**Tools:** Git · PyTorch · GDB · Valgrind · Docker · QEMU · Logisim · Pygame · Unity
+**Tools:** Git · PyTorch · GDB · Valgrind · Docker · Logisim · Pygame · Unity
 
 **Domain Knowledge:** Computer Security · Operating Systems · Computer Architecture · Machine Learning & AI · Medical Imaging · Computer Networks · Signals and Systems · Biomedical Engineering · Human Anatomy and Physiology
