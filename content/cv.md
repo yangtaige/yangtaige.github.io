@@ -4,6 +4,9 @@ title = 'CV'
 hideMeta = true
 +++
 
+**Taige Yang**
+Email: [yangtg2023@shanghaitech.edu.cn](mailto:yangtg2023@shanghaitech.edu.cn) | GitHub: [yangtaige](https://github.com/yangtaige)
+
 ## Education
 
 **University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – Present</span>\
