@@ -5,7 +5,7 @@ theme = "PaperMod"
 copyright = "Copyright © 2026 **Taige Yang**. All Rights Reserved."
 
 [params]
-  defaultTheme = "light"
+  defaultTheme = "auto"
   ShowCodeCopyButtons = true
   math = true
   
