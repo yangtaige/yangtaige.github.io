@@ -1,10 +1,10 @@
 +++
 date = '2026-04-21'
-title = 'CV'
+title = 'Taige Yang'
 hideMeta = true
+description: "Curriculum Vitae of Taige Yang"
 +++
 
-**Taige Yang**
 Email: [yangtg2023@shanghaitech.edu.cn](mailto:yangtg2023@shanghaitech.edu.cn) | GitHub: [yangtaige](https://github.com/yangtaige)
 
 ## Education

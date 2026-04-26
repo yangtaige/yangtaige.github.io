@@ -7,6 +7,8 @@ theme = "PaperMod"
   defaultTheme = "light"
   ShowCodeCopyButtons = true
   math = true
+  copyright = "Copyright © 2026 **Taige Yang**. All Rights Reserved."
+  hideFooter = true
   
   [params.profileMode]
     enabled = true
