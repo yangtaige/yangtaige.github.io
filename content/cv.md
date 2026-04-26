@@ -2,7 +2,7 @@
 date = '2026-04-21'
 title = 'Taige Yang'
 hideMeta = true
-description: "Curriculum Vitae of Taige Yang"
+description = "Curriculum Vitae of Taige Yang"
 +++
 
 Email: [yangtg2023@shanghaitech.edu.cn](mailto:yangtg2023@shanghaitech.edu.cn) | GitHub: [yangtaige](https://github.com/yangtaige)
