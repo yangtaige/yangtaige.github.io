@@ -2,12 +2,12 @@ baseURL = "https://yangtaige.github.io/"
 languageCode = "en-us"
 title = "Taige Yang"
 theme = "PaperMod"
+copyright = "Copyright © 2026 **Taige Yang**. All Rights Reserved."
 
 [params]
   defaultTheme = "light"
   ShowCodeCopyButtons = true
   math = true
-  copyright = "Copyright © 2026 **Taige Yang**. All Rights Reserved."
   
   [params.profileMode]
     enabled = true
