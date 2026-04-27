@@ -5,7 +5,8 @@ hideMeta = true
 description = "Curriculum Vitae of Taige Yang"
 +++
 
-Email: [yangtg2023@shanghaitech.edu.cn](mailto:yangtg2023@shanghaitech.edu.cn) | GitHub: [yangtaige](https://github.com/yangtaige)
+Email: <span id="cv-email"></span> | GitHub: [yangtaige](https://github.com/yangtaige)
+<script>(function(){var e=atob('eWFuZ3RnMjAyM0BzaGFuZ2hhaXRlY2guZWR1LmNu');var a=document.createElement('a');a.href='mailto:'+e;a.textContent=e;document.getElementById('cv-email').appendChild(a);})();</script>
 
 ## Education
 

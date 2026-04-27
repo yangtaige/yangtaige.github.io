@@ -1,0 +1,16 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range site.Params.socialIcons }}
+    {{- if eq .name "email" }}
+    <a href="#" class="obf-email" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+        {{ partial "svg.html" . }}
+    </a>
+    {{- else }}
+    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+        {{ partial "svg.html" . }}
+    </a>
+    {{- end }}
+    {{- end }}
+</div>
+<script>(function(){var e=atob('eWFuZ3RnMjAyM0BzaGFuZ2hhaXRlY2guZWR1LmNu');document.querySelectorAll('.obf-email').forEach(function(a){a.href='mailto:'+e;});})();</script>

@@ -17,7 +17,7 @@ copyright = "Copyright © 2026 **Taige Yang**. All Rights Reserved."
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:yangtg2023@shanghaitech.edu.cn"
+    url = "#"
   [[params.socialIcons]]
       name = "github"
       url = "https://github.com/yangtaige"
