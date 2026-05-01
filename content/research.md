@@ -23,14 +23,16 @@ Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 
 ---
 
-### Zero-Day Vulnerability Detection via Vul-Agent *(Mar 2026 - Present)*
+### Zero-Day Vulnerability Detection via Revelio *(Mar 2026 - Present)*
 Research Assistant | **Sky Computing Lab, UC Berkeley**\
 *Advised by Yiwei Hou*
+
+[Full blog](https://m1-llie.github.io/Revelio-agent-harness-is-as-important-as-model-for-cybersecurity/) · [Twitter](https://x.com/yiwei_hou/status/2050257349647167995) · [Sky Project](https://sky.cs.berkeley.edu/project/revelio/)
 <details>
   <summary><b>Details</b></summary>
   <br>
   
-  - **Framework Evaluation:** Benchmarked the *Vul-Agent* framework's efficacy in detecting memory vulnerabilities within the V8 JavaScript engine and libtorrent.
+  - **Framework Evaluation:** Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities within the V8 JavaScript engine, libtorrent, etc.
   - **Environment Orchestration:** Engineered Dockerized fuzzing environments leveraging **OSS-Fuzz** and an array of LLVM sanitizers (**ASan, MSan, UBSan**) to ensure comprehensive detection of memory errors and undefined behaviors.
   - **PoC Analysis:** Analyzed LLM-generated Proof of Concept for zero-day vulnerabilities to assess the precision of agent-based security auditing.
 </details>
