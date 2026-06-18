@@ -67,7 +67,7 @@ Minor in Information Technology\
 
 **CS161: Computer Security** — UC Berkeley <span style="float:right">Fall 2025</span>\
 *Go · C · x86 Assembly*
-- Architected a cryptographically secure distributed file-sharing system in Go using AES Encrypt-then-MAC, RSA hybrid encryption, and HashKDF-derived keys; implemented strict key-regenerating revocation.
+- Architected a cryptographically secure file-sharing system in Go using AES Encrypt-then-MAC, RSA hybrid encryption, and HashKDF-derived keys; implemented strict key-regenerating revocation.
 - Exploited memory vulnerabilities (buffer overflows via sign-extension bugs, SFP pivots, stack canary leaks, ASLR bypass via `printf` info-leak, format string `%hn` writes, ret sleds, TOCTOU race conditions).
 - Discovered and chained SQLi, stored/reflected XSS, CSRF, and directory traversal vulnerabilities in a mock web platform.
 
