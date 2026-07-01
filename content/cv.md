@@ -10,11 +10,11 @@ Email: <span id="cv-email"></span> | GitHub: [yangtaige](https://github.com/yang
 
 ## Education
 
-**University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – Present</span>\
+**University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – June 2026</span>\
 GPA: 4.0 / 4.0
 
 **ShanghaiTech University** — B.Eng. Biomedical Engineering *(in progress)* <span style="float:right">Sept 2023 – Present</span>\
-GPA: 3.81 / 4.0\
+GPA: 3.84 / 4.0\
 Minor in Information Technology\
 **Honor:** Outstanding Student, 2023–2024
 
