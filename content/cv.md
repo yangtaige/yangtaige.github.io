@@ -22,7 +22,8 @@ Minor in Information Technology\
 
 ## Publications & Manuscripts
 
-1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Dawn Song, Koushik Sen, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases". *Under review at IEEE Symposium on Security and Privacy (S&P)*, 2027.
+1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Dawn Song, Koushik Sen, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases". *Submitted to IEEE Symposium on Security and Privacy (S&P)*, 2027.
+2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. "Holographic Particle Velocimetry via Gaussian-Parameterized Particles". *Submitted to the 21st International Microscopy Congress (IMC21)*, 2026.
 
 ## Research Experience
 
