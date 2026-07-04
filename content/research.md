@@ -8,7 +8,7 @@ topics = ["Imaging", "ML", "Security"]
 +++
 ### 4D Holographic Particle Tracking Velocimetry (PTV) *(Feb 2026 - Present)*
 Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
-*Advised by Dr. Nalini Singh & Mingxuan Cai*
+*Advised by Dr. Nalini Singh & Mingxuan Cai & Prof. Laura Waller*
 <img src="/image/research/holograph.png" alt="Holograph" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
 <details>
   <summary><b>Details</b></summary>
