@@ -16,35 +16,35 @@ GPA: 4.0 / 4.0
 **ShanghaiTech University** — B.Eng. Biomedical Engineering *(in progress)* <span style="float:right">Sept 2023 – Present</span>\
 GPA: 3.84 / 4.0\
 Minor in Information Technology\
-**Honor:** Outstanding Student, 2023–2024
+**Honors & Awards:** 
+Outstanding Student, 2023–2024;\
+Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
+
 
 ---
 
 ## Publications & Manuscripts
 
 1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Dawn Song, Koushik Sen, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases". *Submitted to IEEE Symposium on Security and Privacy (S&P)*, 2027.
-2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. "Holographic Particle Velocimetry via Gaussian-Parameterized Particles". *Submitted to the 21st International Microscopy Congress (IMC21)*, 2026.
+2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” Accepted at the *21st International Microscopy Congress (IMC21)*, 2026.
 
 ## Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
-*4D Digital Inline Holographic Particle Velocimetry*\
-*Advised by Dr. Nalini Singh & Mingxuan Cai*
-- Adopted a Lagrangian representation with floating-point coordinates for off-grid particle trajectory tracking.
-- Developed an analytical forward projection model and Angular Spectrum Method (ASM) initialization for holographic reconstruction.
-- Represented 4D velocity fields via physics-informed MLPs to regularize ill-posed inverse problems in fluid dynamics.
-- Built an end-to-end pipeline integrating particle localization and 4D flow field reconstruction.
+*4D Digital Inline Holographic Particle Velocimetry* ｜ Advisors: *Dr. Nalini Singh, Mingxuan Cai and Prof. Laura Waller*
+- Developed a continuous-coordinate Gaussian particle representation for off-grid 3D particle localization and trajectory reconstruction from holographic measurements.
+- Designed an analytical holographic forward model and Angular Spectrum Method (ASM)-based initialization for physics-driven 3D reconstruction.
+- Modeled continuous 4D velocity fields with physics-informed neural networks to regularize ill-posed fluid flow reconstruction.
+- Built an end-to-end computational imaging pipeline integrating holographic particle localization, temporal tracking, and 4D flow field reconstruction.
 
-**Sky Computing Lab, UC Berkeley** — Research Assistant <span style="float:right">Mar 2026 – Present</span>\
-*Zero-Day Vulnerability Detection via Revelio*\
-*Advised by Yiwei Hou*
+**Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
+*Zero-Day Vulnerability Detection via Revelio* ｜ Advisor: *Yiwei Hou*
 - Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities in V8 and libtorrent.
 - Engineered Dockerized fuzzing environments with OSS-Fuzz and LLVM sanitizers (ASan, MSan, UBSan).
 - Analyzed LLM-generated Proof of Concept exploits to assess the precision of agent-based security auditing.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
-*Sleep Stage Classification via Mouse fMRI*\
-*Advised by Prof. Zhiwei Ma & Yiyun Qi*
+*Sleep Stage Classification via Mouse fMRI* ｜ Advisors: *Prof. Zhiwei Ma & Yiyun Qi*
 - Applied spectral clustering to parcellate brain regions and extracted dynamic Functional Connectivity (dFC) features using sliding-window correlation matrices from fMRI signals.
 - Trained SVM, Random Forest, and MLP models to classify NREM/REM sleep cycles using ECoG as ground truth.
 - Identified subcortical biomarkers tightly coupled with sleep state transitions via cross-modal correlation analysis.
