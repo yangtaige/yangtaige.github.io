@@ -25,7 +25,7 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ## Publications & Manuscripts
 
-1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Dawn Song, Koushik Sen, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases". *Submitted to IEEE Symposium on Security and Privacy (S&P)*, 2027.
+1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." Under submission to *USENIX Security '27*. [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
 2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” Accepted at the *21st International Microscopy Congress (IMC21)*, 2026.
 
 ## Research Experience
