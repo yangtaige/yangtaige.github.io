@@ -17,6 +17,8 @@ type = 'page'
 </div>
 <script>(function(){var e=atob('c2h0aWdlcnlhbmdAZ21haWwuY29t');var a=document.createElement('a');a.href='mailto:'+e;a.textContent=e;document.getElementById('cv-email').appendChild(a);})();</script>
 
+---
+
 ## Education
 
 **University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – June 2026</span>\
@@ -36,9 +38,11 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." Submitted to *USENIX Security '27*. [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
 2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Accepted for poster presentation (LB2 865). [Paper](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
 
+---
+
 ## Research Experience
 
-Computational Imaging Lab, UC Berkeley — Undergraduate Researcher
+**Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* | Advisors: Dr. Nalini Singh, Mingxuan Cai, Prof. Laura Waller
 - Developed a continuous-coordinate Gaussian particle representation and analytical holographic forward model for off-grid 3D particle localization, with ASM-based initialization.
 - Extended the framework to temporal particle tracking and continuous 4D velocity-field reconstruction using physics-informed neural networks.
