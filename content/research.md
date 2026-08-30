@@ -6,9 +6,14 @@ fields = ["BME", "CS"]
 languages = ["Python"]
 topics = ["Imaging", "ML", "Security"]
 +++
-### 4D Holographic Particle Tracking Velocimetry (PTV) *(Feb 2026 - Present)*
+### Holographic Particle Velocimetry via Gaussian-Parameterized Particles *(Feb 2026 - Present)*
 Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 *Advised by Dr. Nalini Singh & Mingxuan Cai & Prof. Laura Waller*
+**Publication:** Taige Yang, Nalini Singh, Mingxuan Cai, and Laura Waller.
+“Holographic Particle Velocimetry via Gaussian-Parameterized Particles.”
+*21st International Microscopy Congress (IMC21)*, 2026.
+
+[Paper (PDF)](/files/imc21-paper.pdf) · [Poster (PDF)](/files/imc21-poster.pdf)
 <img src="/image/research/holograph.png" alt="Holograph" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
 <details>
   <summary><b>Details</b></summary>
@@ -27,7 +32,7 @@ Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 Research Assistant | **Sky Computing Lab, UC Berkeley**\
 *Advised by Yiwei Hou*
 
-[Full blog](https://m1-llie.github.io/Revelio-agent-harness-is-as-important-as-model-for-cybersecurity/) · [Twitter](https://x.com/yiwei_hou/status/2050257349647167995) · [Sky Project](https://sky.cs.berkeley.edu/project/revelio/)
+[arXiv](https://arxiv.org/abs/2606.22263) · [Full blog](https://m1-llie.github.io/Revelio-agent-harness-is-as-important-as-model-for-cybersecurity/) · [Twitter](https://x.com/yiwei_hou/status/2050257349647167995) · [Sky Project](https://sky.cs.berkeley.edu/project/revelio/)
 <details>
   <summary><b>Details</b></summary>
   <br>
