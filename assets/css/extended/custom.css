@@ -10,3 +10,43 @@
     max-height: 400px;
     object-fit: cover;
 }
+
+/* Compact CV introduction used on both the homepage and /cv/. */
+.cv-intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+    margin: 4px 0 28px;
+}
+
+.cv-intro-contact {
+    flex: 1;
+}
+
+.cv-intro-contact p {
+    margin: 8px 0;
+}
+
+.cv-portrait {
+    width: 144px;
+    height: 144px;
+    flex: 0 0 144px;
+    object-fit: cover;
+    border-radius: 18px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
+}
+
+@media (max-width: 600px) {
+    .cv-intro {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .cv-portrait {
+        width: 120px;
+        height: 120px;
+        flex-basis: 120px;
+    }
+}

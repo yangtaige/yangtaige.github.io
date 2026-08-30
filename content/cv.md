@@ -1,9 +1,12 @@
 +++
 date = '2026-06-06'
-title = 'Taige Yang'
+title = 'Taige Yang — Extended CV'
 hideMeta = true
-description = "Curriculum Vitae of Taige Yang"
+description = "Extended curriculum vitae of Taige Yang"
+url = '/cv/extended/'
 +++
+
+**[← Short version](/cv/)**
 
 Email: <span id="cv-email"></span> | GitHub: [yangtaige](https://github.com/yangtaige)
 <script>(function(){var e=atob('eWFuZ3RnMjAyM0BzaGFuZ2hhaXRlY2guZWR1LmNu');var a=document.createElement('a');a.href='mailto:'+e;a.textContent=e;document.getElementById('cv-email').appendChild(a);})();</script>
@@ -31,14 +34,14 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 ## Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
-*4D Digital Inline Holographic Particle Velocimetry* ｜ Advisors: *Dr. Nalini Singh, Mingxuan Cai and Prof. Laura Waller*
+*Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: *Dr. Nalini Singh, Mingxuan Cai and Prof. Laura Waller*
 - Developed a continuous-coordinate Gaussian particle representation for off-grid 3D particle localization and trajectory reconstruction from holographic measurements.
 - Designed an analytical holographic forward model and Angular Spectrum Method (ASM)-based initialization for physics-driven 3D reconstruction.
 - Modeled continuous 4D velocity fields with physics-informed neural networks to regularize ill-posed fluid flow reconstruction.
 - Built an end-to-end computational imaging pipeline integrating holographic particle localization, temporal tracking, and 4D flow field reconstruction.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
-*Zero-Day Vulnerability Detection via Revelio* ｜ Advisor: *Yiwei Hou*
+*Revelio: Repository-Scale Memory-Safety Vulnerability Detection* ｜ Advisor: *Yiwei Hou*
 - Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities in V8 and libtorrent.
 - Engineered Dockerized fuzzing environments with OSS-Fuzz and LLVM sanitizers (ASan, MSan, UBSan).
 - Analyzed LLM-generated Proof of Concept exploits to assess the precision of agent-based security auditing.
@@ -107,15 +110,6 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **BME1108: Human Anatomy and Physiology** — ShanghaiTech <span style="float:right">Spring 2025</span>
 - Conducted hands-on cadaveric dissection observation, examining skeletal structures, musculature, internal organs, and the peripheral nervous system.
-
-**PHYS1113: General Physics II Lab** — ShanghaiTech <span style="float:right">Fall 2024</span>
-- Performed experiments covering electromagnetism and optics.
-
-**CHEM1103: General Chemistry I** — ShanghaiTech <span style="float:right">Fall 2024</span>
-- Performed experiments in structural chemistry.
-
-**PHYS1111: General Physics I Lab** — ShanghaiTech <span style="float:right">Spring 2024</span>
-- Performed experiments covering kinematics, dynamics, and thermodynamics.
 
 ---
 
