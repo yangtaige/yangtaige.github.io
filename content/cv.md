@@ -15,7 +15,7 @@ Email: <span id="cv-email"></span> | GitHub: [yangtaige](https://github.com/yang
 
 ---
 
-## Education
+### Education
 
 **University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – June 2026</span>\
 GPA: 4.0 / 4.0
@@ -32,11 +32,11 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 ## Publications & Manuscripts
 
 1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." Submitted to *USENIX Security '27*. [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
-2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Accepted for poster presentation (LB2 865). [Paper](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
+2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Accepted for poster presentation (LB2 865). [Abstract](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
 
 ---
 
-## Research Experience
+### Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: *Dr. Nalini Singh, Mingxuan Cai and Prof. Laura Waller*
@@ -59,7 +59,7 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ---
 
-## Project Experience
+### Projects
 
 **CS162: Operating Systems** — UC Berkeley <span style="float:right">Spring 2026</span>\
 *C · Rust*
@@ -111,14 +111,14 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ---
 
-## Laboratory Experience
+### Laboratory Experience
 
 **BME1108: Human Anatomy and Physiology** — ShanghaiTech <span style="float:right">Spring 2025</span>
 - Conducted hands-on cadaveric dissection observation, examining skeletal structures, musculature, internal organs, and the peripheral nervous system.
 
 ---
 
-## Skills
+### Skills
 
 **Programming:** Python · C · Go · Rust · RISC-V Assembly · x86 Assembly · MATLAB · SQL · C#
 
