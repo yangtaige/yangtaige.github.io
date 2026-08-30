@@ -15,7 +15,7 @@ type = 'page'
   </div>
   <img class="cv-portrait" src="/image/profile/myself.jpg" alt="Portrait of Taige Yang">
 </div>
-<script>(function(){var e=atob('eWFuZ3RnMjAyM0BzaGFuZ2hhaXRlY2guZWR1LmNu');var a=document.createElement('a');a.href='mailto:'+e;a.textContent=e;document.getElementById('cv-email').appendChild(a);})();</script>
+<script>(function(){var e=atob('c2h0aWdlcnlhbmdAZ21haWwuY29t');var a=document.createElement('a');a.href='mailto:'+e;a.textContent=e;document.getElementById('cv-email').appendChild(a);})();</script>
 
 ## Education
 
