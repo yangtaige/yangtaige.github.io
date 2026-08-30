@@ -4,6 +4,8 @@ title = 'Taige Yang — Extended CV'
 hideMeta = true
 description = "Extended curriculum vitae of Taige Yang"
 url = '/cv/extended/'
+layout = 'cv'
+type = 'page'
 +++
 
 **[← Short version](/cv/)**
@@ -28,7 +30,7 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ## Publications & Manuscripts
 
-1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." Under submission to *USENIX Security '27*. [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
+1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." Submitted to *USENIX Security '27*. [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
 2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Accepted for poster presentation (LB2 865). [Paper](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
 
 ## Research Experience
