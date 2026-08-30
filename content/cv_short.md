@@ -4,6 +4,8 @@ title = 'Taige Yang'
 hideMeta = true
 description = "Curriculum Vitae of Taige Yang"
 url = '/cv/'
+layout = 'cv'
+type = 'page'
 +++
 
 <div class="cv-intro">
@@ -26,7 +28,6 @@ Minor in Information Technology\
 **Honors & Awards:** 
 Outstanding Student, 2023–2024;\
 Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
-
 
 ---
 

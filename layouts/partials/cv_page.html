@@ -1,0 +1,9 @@
+<article class="post-single cv-home">
+  <div class="post-content md-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content }}
+    {{- else }}
+    {{- .Content }}
+    {{- end }}
+  </div>
+</article>
