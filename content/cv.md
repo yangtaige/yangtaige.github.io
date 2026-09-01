@@ -33,20 +33,20 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 ### Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
-*Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: *Dr. Nalini Singh, Mingxuan Cai and Prof. Laura Waller*
+*Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
 - Developed a continuous-coordinate Gaussian particle representation for off-grid 3D particle localization and trajectory reconstruction from holographic measurements.
 - Designed an analytical holographic forward model and Angular Spectrum Method (ASM)-based initialization for physics-driven 3D reconstruction.
 - Modeled continuous 4D velocity fields with physics-informed neural networks to regularize ill-posed fluid flow reconstruction.
 - Built an end-to-end computational imaging pipeline integrating holographic particle localization, temporal tracking, and 4D flow field reconstruction.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
-*Revelio: Repository-Scale Memory-Safety Vulnerability Detection* ｜ Advisor: *Yiwei Hou*
+*Revelio: Repository-Scale Memory-Safety Vulnerability Detection* ｜ Advisor: **Yiwei Hou**
 - Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities in V8 and libtorrent.
 - Engineered Dockerized fuzzing environments with OSS-Fuzz and LLVM sanitizers (ASan, MSan, UBSan).
 - Analyzed LLM-generated Proof of Concept exploits to assess the precision of agent-based security auditing.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
-*Sleep Stage Classification via Mouse fMRI* ｜ Advisors: *Prof. Zhiwei Ma & Yiyun Qi*
+*Sleep Stage Classification via Mouse fMRI* ｜ Advisors: **Prof. Zhiwei Ma & Yiyun Qi**
 - Applied spectral clustering to parcellate brain regions and extracted dynamic Functional Connectivity (dFC) features using sliding-window correlation matrices from fMRI signals.
 - Trained SVM, Random Forest, and MLP models to classify NREM/REM sleep cycles using ECoG as ground truth.
 - Identified subcortical biomarkers tightly coupled with sleep state transitions via cross-modal correlation analysis.

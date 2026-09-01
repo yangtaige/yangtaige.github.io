@@ -37,18 +37,18 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 ### Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
-*Holographic Particle Velocimetry via Gaussian-Parameterized Particles* | Advisors: Dr. Nalini Singh, Mingxuan Cai, Prof. Laura Waller
+*Holographic Particle Velocimetry via Gaussian-Parameterized Particles* | Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
 - Developed a continuous-coordinate Gaussian particle representation and analytical holographic forward model for off-grid 3D particle localization, with ASM-based initialization.
 - Extended the framework to temporal particle tracking and continuous 4D velocity-field reconstruction using physics-informed neural networks.
 - Built an end-to-end physics-based pipeline integrating holographic localization, tracking, and flow reconstruction.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
-*Revelio: Repository-Scale Memory-Safety Vulnerability Detection* | Advisor: Yiwei Hou
+*Revelio: Repository-Scale Memory-Safety Vulnerability Detection* | Advisor: **Yiwei Hou**
 - Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
 - Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
-*Sleep Stage Classification via Mouse fMRI* ｜ Advisors: *Prof. Zhiwei Ma & Yiyun Qi*
+*Sleep Stage Classification via Mouse fMRI* ｜ Advisors: **Prof. Zhiwei Ma & Yiyun Qi**
 - Extracted dynamic functional-connectivity features from resting-state fMRI and trained SVM, Random Forest, and MLP models for NREM/REM classification.
 - Analyzed cross-modal correlations with ECoG ground truth and identified subcortical biomarkers associated with sleep-state transitions.
 
