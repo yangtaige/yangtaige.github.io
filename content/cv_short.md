@@ -72,5 +72,7 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 ### Skills
 
 **Programming:** Python · PyTorch · C · Go · Rust · MATLAB · RISC-V/x86 Assembly
+
 **Tools:** Git · Docker · GDB · Valgrind · Cadence
+
 **Research:** Computational Imaging · Inverse Problems · Machine Learning · Medical Imaging · Systems & Security
