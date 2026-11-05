@@ -31,8 +31,11 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ## Publications & Manuscripts
 
-1. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
-2. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Accepted for poster presentation (LB2 865). [Abstract](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
+1. **Taige Yang**, Nalini Singh, Mingxuan Cai, Laura Waller. “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.” *21st International Microscopy Congress (IMC21)*, Liverpool, UK, 2026. Conference abstract; poster presentation (LB2 865). [Abstract](/files/imc21-paper.pdf) · [Poster](/files/imc21-poster.pdf)
+2. **Taige Yang**, Yiyun Qi, Zhiwei Ma. “Decoding continuous sleep states in mice from regional fMRI dynamics.” *2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology*, Xi’an, China, October 23–26, 2026. Conference abstract; poster presentation (62-004). [Abstract](/files/sleep-fmri-abstract.pdf) · [Poster](/files/sleep-fmri-poster.pdf)
+3. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
+
+**Manuscript in preparation:** Holographic particle velocimetry.
 
 ### Research Experience
 

@@ -47,6 +47,9 @@ Research Assistant | **Sky Computing Lab, UC Berkeley**\
 ### Sleep Stage Classification via Mouse fMRI Signals *(Aug 2024 - Nov 2025)*
 Undergraduate Researcher | **Translational Neuroimaging Lab, ShanghaiTech**\
 *Advised by Prof. Zhiwei Ma & Yiyun Qi*
+
+**Conference abstract:** **Taige Yang**, Yiyun Qi, Zhiwei Ma. “Decoding continuous sleep states in mice from regional fMRI dynamics.” *2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology*, Xi’an, China, October 23–26, 2026. Conference abstract; poster presentation (62-004). [Abstract](/files/sleep-fmri-abstract.pdf) · [Poster](/files/sleep-fmri-poster.pdf)
+
 <img src="/image/research/mouse.png" alt="Brain Regions" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
 <details>
   <summary><b>Details</b></summary>
