@@ -22,7 +22,7 @@ type = 'page'
 **University of California, Berkeley** — Visiting Student, Computer Science <span style="float:right">Aug 2025 – June 2026</span>\
 GPA: 4.0 / 4.0
 
-**ShanghaiTech University** — B.Eng. Biomedical Engineering *(in progress)* <span style="float:right">Sept 2023 – Present</span>\
+**ShanghaiTech University** — B.Eng. in Biomedical Engineering *(expected June 2027)* <span style="float:right">Sept 2023 – Present</span>\
 GPA: 3.84 / 4.0\
 Minor in Information Technology\
 **Honors & Awards:** 
@@ -35,15 +35,16 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 2. **Taige Yang**, Yiyun Qi, Zhiwei Ma. “Decoding continuous sleep states in mice from regional fMRI dynamics.” *2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology*, Xi’an, China, October 23–26, 2026. Conference abstract; poster presentation (62-004). [Abstract](/files/sleep-fmri-abstract.pdf) · [Poster](/files/sleep-fmri-poster.pdf)
 3. Yiwei Hou, Hao Wang, Muxi Lyu, Marius Momeu, Eric Nguyen, **Taige Yang**, Koushik Sen, Dawn Song, David Wagner. "Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection Across Repository-Scale Codebases." [arXiv:2606.22263](https://arxiv.org/abs/2606.22263), 2026.
 
-**Manuscript in preparation:** Holographic particle velocimetry.
+**Manuscript in preparation:** Holographic particle tracking and velocimetry.
 
 ### Research Experience
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* | Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
-- Developed a continuous-coordinate Gaussian particle representation and analytical holographic forward model for off-grid 3D particle localization, with ASM-based initialization.
-- Extended the framework to temporal particle tracking and continuous 4D velocity-field reconstruction using physics-informed neural networks.
-- Built an end-to-end physics-based pipeline integrating holographic localization, tracking, and flow reconstruction.
+- Developed a continuous-coordinate Gaussian particle representation and differentiable optical forward model for off-grid 3D localization from inline holograms.
+- Extended frame-wise localization to continuous neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
+- Used hologram evidence to extend, merge, and prune trajectories after motion-aware matching, refining particle identities and temporal support.
+- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
 *Revelio: Repository-Scale Memory-Safety Vulnerability Detection* | Advisor: **Yiwei Hou**
@@ -52,8 +53,9 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
 *Sleep Stage Classification via Mouse fMRI* ｜ Advisors: **Prof. Zhiwei Ma & Yiyun Qi**
-- Extracted dynamic functional-connectivity features from resting-state fMRI and trained SVM, Random Forest, and MLP models for NREM/REM classification.
-- Analyzed cross-modal correlations with ECoG ground truth and identified subcortical biomarkers associated with sleep-state transitions.
+- Initially explored dynamic functional-connectivity features and SVM, Random Forest, and MLP models for NREM/REM classification using electrophysiological labels.
+- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models, with nested leave-one-mouse-out validation.
+- Evaluated decoding across 24 mice: HMM temporal decoding increased pooled macro-F1 from 0.605 to 0.651; analyzed state-specific regional contributions using held-out feature perturbations.
 
 ### Selected Projects
 
@@ -74,8 +76,8 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 ### Skills
 
-**Programming:** Python · PyTorch · C · Go · Rust · MATLAB · RISC-V/x86 Assembly
+**Programming:** Python · C · Go · Rust · MATLAB · RISC-V/x86 Assembly
 
-**Tools:** Git · Docker · GDB · Valgrind · Cadence
+**Tools:** PyTorch · Git · Docker · GDB · Valgrind · Cadence
 
 **Research:** Computational Imaging · Inverse Problems · Machine Learning · Medical Imaging · Systems & Security

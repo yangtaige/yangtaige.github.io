@@ -13,23 +13,22 @@ Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 “Holographic Particle Velocimetry via Gaussian-Parameterized Particles.”
 *21st International Microscopy Congress (IMC21)*, 2026.
 
-[Paper (PDF)](/files/imc21-paper.pdf) · [Poster (PDF)](/files/imc21-poster.pdf)
+[Abstract (PDF)](/files/imc21-paper.pdf) · [Poster (PDF)](/files/imc21-poster.pdf)
 <img src="/image/research/holograph.png" alt="Holograph" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
 <details>
   <summary><b>Details</b></summary>
-  <br>
-  
-  - **Lagrangian Representation:** Departed from traditional grid-based views by adopting a Lagrangian perspective, using precise floating-point coordinates to represent individual particles for off-grid trajectory tracking.
-  - **Forward Modeling:** Developed an analytical forward projection model to optimize optical kernels, improving the fidelity of in-line holographic reconstructions.
-  - **Hybrid Initialization:** Implemented an Angular Spectrum Method (ASM) combined with Gaussian representations for robust particle localization.
-  - **Physics-Informed Neural Field:** Represented complex velocity fields using Multi-Layer Perceptrons (MLPs) to regularize ill-posed inverse problems in fluid dynamics.
-  - **Pipeline Engineering:** Built an end-to-end pipeline integrating particle localization and 4D flow field reconstruction.
+
+- Developed a continuous-coordinate Gaussian particle representation and differentiable optical forward model for off-grid 3D localization from inline holograms.
+- Extended frame-wise localization to continuous neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
+- Used hologram evidence to extend, merge, and prune trajectories after motion-aware matching, refining particle identities and temporal support.
+- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
+
 </details>
 
 ---
 
-### Zero-Day Vulnerability Detection via Revelio *(Mar 2026 - Present)*
-Research Assistant | **Sky Computing Lab, UC Berkeley**\
+### Zero-Day Vulnerability Detection via Revelio *(Mar 2026 - Jun 2026)*
+Research Collaborator | **Sky Computing Lab, UC Berkeley**\
 *Advised by Yiwei Hou*
 
 [arXiv](https://arxiv.org/abs/2606.22263) · [Full blog](https://m1-llie.github.io/Revelio-agent-harness-is-as-important-as-model-for-cybersecurity/) · [Twitter](https://x.com/yiwei_hou/status/2050257349647167995) · [Sky Project](https://sky.cs.berkeley.edu/project/revelio/)
@@ -53,9 +52,9 @@ Undergraduate Researcher | **Translational Neuroimaging Lab, ShanghaiTech**\
 <img src="/image/research/mouse.png" alt="Brain Regions" style="width: 100%; max-width: 600px; border-radius: 8px; margin: 15px 0;">
 <details>
   <summary><b>Details</b></summary>
-  <br>
-  
-  - **Parcellation & Feature Engineering:** Applied spectral clustering algorithms to parcellate brain regions and extracted dynamic Functional Connectivity (dFC) features using sliding-window correlation matrices from fMRI signals.
-  - **Multi-Modal Sleep Staging:** Developed and evaluated an array of machine learning models (SVM, Random Forest, MLPs) to classify NREM/REM sleep cycles, leveraging concurrent ECoG (Electrocorticography) recordings as high-fidelity ground truth labels.
-  - **Biomarker Identification:** Conducted cross-modal correlation analysis between localized fMRI signals and ECoG data to identify specific subcortical regions tightly coupled with sleep state transitions.
+
+- Initially explored dynamic functional-connectivity features and SVM, Random Forest, and MLP models for NREM/REM classification using electrophysiological labels.
+- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models, with nested leave-one-mouse-out validation.
+- Evaluated decoding across 24 mice: HMM temporal decoding increased pooled macro-F1 from 0.605 to 0.651; analyzed state-specific regional contributions using held-out feature perturbations.
+
 </details>
