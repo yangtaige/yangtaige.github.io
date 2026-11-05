@@ -37,22 +37,21 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
-- Developed a continuous-coordinate Gaussian particle representation and differentiable optical forward model for off-grid 3D localization from inline holograms.
-- Extended frame-wise localization to continuous neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
-- Used hologram evidence to extend, merge, and prune trajectories after motion-aware matching, refining particle identities and temporal support.
+- Developed a Gaussian particle representation and differentiable forward model for localization from inline holograms.
+- Extended frame-wise localization to neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
+- Used hologram evidence to extend, merge, and prune trajectories, refining particle identities and temporal support.
 - Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
 *Revelio: Repository-Scale Memory-Safety Vulnerability Detection* ｜ Advisor: **Yiwei Hou**
-- Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities in V8 and libtorrent.
-- Engineered Dockerized fuzzing environments with OSS-Fuzz and LLVM sanitizers (ASan, MSan, UBSan).
-- Analyzed LLM-generated Proof of Concept exploits to assess the precision of agent-based security auditing.
+- Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
+- Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
 *Sleep Stage Classification via Mouse fMRI* ｜ Advisors: **Prof. Zhiwei Ma & Yiyun Qi**
 - Initially explored dynamic functional-connectivity features and SVM, Random Forest, and MLP models for NREM/REM classification using electrophysiological labels.
-- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models, with nested leave-one-mouse-out validation.
-- Evaluated decoding across 24 mice: HMM temporal decoding increased pooled macro-F1 from 0.605 to 0.651; analyzed state-specific regional contributions using held-out feature perturbations.
+- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models.
+- Evaluated decoding across 24 mice; analyzed state-specific regional contributions using held-out feature perturbations.
 
 ### Projects
 

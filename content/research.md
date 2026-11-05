@@ -18,9 +18,9 @@ Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 <details>
   <summary><b>Details</b></summary>
 
-- Developed a continuous-coordinate Gaussian particle representation and differentiable optical forward model for off-grid 3D localization from inline holograms.
-- Extended frame-wise localization to continuous neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
-- Used hologram evidence to extend, merge, and prune trajectories after motion-aware matching, refining particle identities and temporal support.
+- Developed a Gaussian particle representation and differentiable forward model for localization from inline holograms.
+- Extended frame-wise localization to neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
+- Used hologram evidence to extend, merge, and prune trajectories, refining particle identities and temporal support.
 - Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
 
 </details>
@@ -34,11 +34,10 @@ Research Collaborator | **Sky Computing Lab, UC Berkeley**\
 [arXiv](https://arxiv.org/abs/2606.22263) · [Full blog](https://m1-llie.github.io/Revelio-agent-harness-is-as-important-as-model-for-cybersecurity/) · [Twitter](https://x.com/yiwei_hou/status/2050257349647167995) · [Sky Project](https://sky.cs.berkeley.edu/project/revelio/)
 <details>
   <summary><b>Details</b></summary>
-  <br>
-  
-  - **Framework Evaluation:** Benchmarked the *Revelio* framework's efficacy in detecting memory vulnerabilities within the V8 JavaScript engine, libtorrent, etc.
-  - **Environment Orchestration:** Engineered Dockerized fuzzing environments leveraging **OSS-Fuzz** and an array of LLVM sanitizers (**ASan, MSan, UBSan**) to ensure comprehensive detection of memory errors and undefined behaviors.
-  - **PoC Analysis:** Analyzed LLM-generated Proof of Concept for zero-day vulnerabilities to assess the precision of agent-based security auditing.
+
+- Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
+- Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
+
 </details>
 
 ---
@@ -54,7 +53,7 @@ Undergraduate Researcher | **Translational Neuroimaging Lab, ShanghaiTech**\
   <summary><b>Details</b></summary>
 
 - Initially explored dynamic functional-connectivity features and SVM, Random Forest, and MLP models for NREM/REM classification using electrophysiological labels.
-- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models, with nested leave-one-mouse-out validation.
-- Evaluated decoding across 24 mice: HMM temporal decoding increased pooled macro-F1 from 0.605 to 0.651; analyzed state-specific regional contributions using held-out feature perturbations.
+- Subsequently developed Awake/NREM/REM decoding from regional fMRI time-series features using elastic-net multinomial logistic regression and hidden Markov models.
+- Evaluated decoding across 24 mice; analyzed state-specific regional contributions using held-out feature perturbations.
 
 </details>
