@@ -37,14 +37,14 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* ｜ Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
-- Developed a Gaussian particle representation and differentiable forward model for localization from inline holograms.
+- Developed a Gaussian particle representation and differentiable forward model for 3D localization from inline holograms.
 - Extended frame-wise localization to neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
 - Used hologram evidence to extend, merge, and prune trajectories, refining particle identities and temporal support.
-- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
+- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
 *Revelio: Repository-Scale Memory-Safety Vulnerability Detection* ｜ Advisor: **Yiwei Hou**
-- Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
+- Evaluated LLM-agent-generated proof-of-concept exploits on V8 and libtorrent using OSS-Fuzz, Docker, and LLVM sanitizers.
 - Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
@@ -57,9 +57,9 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **CS162: Operating Systems** — UC Berkeley <span style="float:right">Spring 2026</span>\
 *C · Rust*
-- Co-developed a monolithic Pintos OS kernel: implemented file operation syscalls, ROX memory protections, user-kernel boundary security check, 1:1 pthread-to-kernel-thread mapping, `pthread_join`/`pthread_exit` syscalls, kernel-backed mutexes and semaphores, `exit`/`wait` process control syscalls for multi-threaded processes, and a 64-entry buffer cache with N-th Chance clock eviction.
-- Built a fault-tolerant distributed MapReduce framework with heartbeat-based failure recovery, and engineered a highly available distributed Key-Value store based on the Raft consensus algorithm.
-- Engineered a concurrent HTTP/1.0 server using a custom thread pool, a POSIX-compatible shell with full job control and pipelines, and a `malloc`/`free` allocator with explicit free-list and block coalescing.
+- Implemented Pintos kernel features in C, including system calls, multithreading, synchronization, process management, and file-system caching.
+- Built fault-tolerant MapReduce and Raft-based key-value systems.
+- Implemented a multithreaded HTTP server, a shell with job control and pipelines, and a dynamic memory allocator.
 
 **CS152: Computer Architecture and Engineering** — UC Berkeley <span style="float:right">Spring 2026</span>\
 *C · RISC-V Assembly*
@@ -70,9 +70,9 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **CS161: Computer Security** — UC Berkeley <span style="float:right">Fall 2025</span>\
 *Go · C · x86 Assembly*
-- Architected a cryptographically secure file-sharing system in Go using AES Encrypt-then-MAC, RSA hybrid encryption, and HashKDF-derived keys; implemented strict key-regenerating revocation.
-- Exploited memory vulnerabilities (buffer overflows via sign-extension bugs, SFP pivots, stack canary leaks, ASLR bypass via `printf` info-leak, format string `%hn` writes, ret sleds, TOCTOU race conditions).
-- Discovered and chained SQLi, stored/reflected XSS, CSRF, and directory traversal vulnerabilities in a mock web platform.
+- Built a secure file-sharing system in Go with authenticated encryption, key management, and access revocation.
+- Exploited memory-safety vulnerabilities and bypassed runtime defenses in course exercises.
+- Identified and exploited injection, scripting, and access-control flaws in a mock web platform.
 
 **CS61C: Great Ideas of Computer Architecture** — UC Berkeley <span style="float:right">Fall 2025</span>\
 *C · RISC-V Assembly*

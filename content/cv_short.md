@@ -41,14 +41,14 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **Computational Imaging Lab, UC Berkeley** — Undergraduate Researcher <span style="float:right">Feb 2026 – Present</span>\
 *Holographic Particle Velocimetry via Gaussian-Parameterized Particles* | Advisors: **Prof. Laura Waller, Dr. Nalini Singh and Mingxuan Cai**
-- Developed a Gaussian particle representation and differentiable forward model for localization from inline holograms.
+- Developed a Gaussian particle representation and differentiable forward model for 3D localization from inline holograms.
 - Extended frame-wise localization to neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
 - Used hologram evidence to extend, merge, and prune trajectories, refining particle identities and temporal support.
-- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
+- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting.
 
 **Sky Computing Lab, UC Berkeley** — Research Collaborator <span style="float:right">Mar 2026 – Jun 2026</span>\
 *Revelio: Repository-Scale Memory-Safety Vulnerability Detection* | Advisor: **Yiwei Hou**
-- Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
+- Evaluated LLM-agent-generated proof-of-concept exploits on V8 and libtorrent using OSS-Fuzz, Docker, and LLVM sanitizers.
 - Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
 
 **Translational Neuroimaging Lab, ShanghaiTech** — Undergraduate Researcher <span style="float:right">Aug 2024 – Nov 2025</span>\
@@ -61,13 +61,13 @@ Special Scholarship for Undergraduate 3+1 Overseas Exchange Program, 2025–2026
 
 **CS162: Operating Systems** — UC Berkeley <span style="float:right">Spring 2026</span>\
 *C · Rust*
-- Implemented major Pintos OS functionality in C, including system calls, multithreading/synchronization, process management, memory-safety checks, and a 64-entry buffer cache.
-- Built distributed MapReduce and Raft-based key-value systems, together with concurrent systems programming projects including an HTTP server, shell, and memory allocator.
+- Implemented Pintos kernel features in C, including system calls, multithreading, synchronization, process management, and file-system caching.
+- Built distributed MapReduce and Raft-based key-value systems, plus an HTTP server, shell, and memory allocator.
 
 **CS161: Computer Security** — UC Berkeley <span style="float:right">Fall 2025</span>\
 *Go · C · x86 Assembly*
-- Designed and implemented a secure file-sharing system in Go using symmetric/asymmetric cryptography, authenticated encryption, key derivation, and revocation.
-- Exploited memory-safety and web vulnerabilities including buffer overflows, ASLR bypass, format strings, SQL injection, XSS, CSRF, and TOCTOU races.
+- Built a secure file-sharing system in Go with authenticated encryption, key management, and access revocation.
+- Exploited memory-safety and web vulnerabilities in course exercises, including bypassing runtime defenses.
 
 **BME1312: AI in Medical Imaging** — ShanghaiTech <span style="float:right">Spring 2025</span>\
 *Python · PyTorch*

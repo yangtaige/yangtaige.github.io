@@ -18,10 +18,10 @@ Undergraduate Researcher | **Computational Imaging Lab, UC Berkeley**\
 <details>
   <summary><b>Details</b></summary>
 
-- Developed a Gaussian particle representation and differentiable forward model for localization from inline holograms.
+- Developed a Gaussian particle representation and differentiable forward model for 3D localization from inline holograms.
 - Extended frame-wise localization to neural trajectories, jointly fitting particle positions, sizes, and amplitudes to multi-frame hologram measurements.
 - Used hologram evidence to extend, merge, and prune trajectories, refining particle identities and temporal support.
-- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting; preparing a manuscript on the method.
+- Introduced motion regularization using shared velocity fields fitted from other trajectories through cross-fitting.
 
 </details>
 
@@ -35,7 +35,7 @@ Research Collaborator | **Sky Computing Lab, UC Berkeley**\
 <details>
   <summary><b>Details</b></summary>
 
-- Evaluated LLM-agent-generated proof-of-concept exploits on V8, libtorrent, etc. using OSS-Fuzz, Docker, and LLVM sanitizers.
+- Evaluated LLM-agent-generated proof-of-concept exploits on V8 and libtorrent using OSS-Fuzz, Docker, and LLVM sanitizers.
 - Analyzed detection accuracy and failure modes of agent-based vulnerability auditing on real-world codebases.
 
 </details>
