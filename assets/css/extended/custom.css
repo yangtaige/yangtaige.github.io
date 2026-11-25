@@ -11,6 +11,52 @@
     object-fit: cover;
 }
 
+.md-content .test6-reconstruction {
+    margin: 20px 0 24px;
+}
+
+.test6-panels,
+.fmri-panels {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    align-items: start;
+}
+
+.fmri-panels {
+    margin: 20px 0 24px;
+}
+
+.test6-panels + .test6-panels {
+    margin-top: 12px;
+}
+
+.md-content .test6-panels img,
+.md-content .research-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+.md-content .test6-panels figure,
+.md-content .fmri-panels figure {
+    margin: 0;
+}
+
+.md-content .test6-panels figure > figcaption,
+.md-content .fmri-panels figure > figcaption {
+    margin: 6px 0 0;
+    text-align: center;
+    font-size: 0.875rem;
+}
+
+@media (max-width: 540px) {
+    .test6-trajectories {
+        grid-template-columns: minmax(0, 1fr);
+    }
+}
+
 /* Compact CV introduction used on both the homepage and /cv/. */
 .cv-intro {
     display: flex;
